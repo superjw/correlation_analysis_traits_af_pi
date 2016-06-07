@@ -8,7 +8,7 @@ This folder contains the files and scripts that has been used in correlation ana
 `no_m_traits_af_final_single_file.tsv`: file used in correlation analysis between number of   mapped traits and AF/Kb
 `mart_export.txt`: exported file contains GENE, TRANSCRIPTS info based on GRCh37 assmebly  
 ------------------------------------------
-#### Meeting with boss on 26-May-2016  
+###### Meeting with boss on 26-May-2016
 - [x] do correlation analysis *no of reported traits* **vs** *gene length* **by** adding gene length to the correlation file
 - [ ] could include protein data, if a transcript has a protein product
 - [ ] recheck the data, make a clear description of the data *trait/AF correlation file*:
@@ -20,10 +20,11 @@ This folder contains the files and scripts that has been used in correlation ana
 - [ ] it also worth to check the methods that used in GWAS-Catalog studies(e.g. Affimatrix?)
 - [ ] direct plot the data rather than use histogram (see **online onenote report**)
 -----------------------------------------
-#### from boss email
+###### from boss email
 - age-related diseases should include: ***Stroke, Alzheimer and Parkinson disease, type II diabetes, metabolic syndrome, obesity, cardiovascular disease, hypertension, age-related macular degeneration***
 - cancer should include: ***prostate cancer, colorectal cancer, ovarian cancer, pranceatic and breast cancer***
 ======================
+- [x] email 1000 genome project enquiring how to do the mapping(replied, see archived email)
 - [ ] check if pi values were from exomes
 - [ ] should have analysis for exomes, for the accurate
 - [ ] characterize fully the data that I have derived
